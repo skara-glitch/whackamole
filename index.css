@@ -1,0 +1,22 @@
+.grid{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgba(47, 13, 238, 0.493);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .square{
+    height: 60px;
+    width: 60px;
+    border: 1px solid rgba(16, 230, 230, 0.459);
+  }
+  .mole{
+    height: 60px;
+    width: 60px;
+    border-radius: 25px;
+    background: rgb(255, 0, 0);
+  }
